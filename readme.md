@@ -6,13 +6,13 @@
 ## 📍 **IMAGE PLACEMENT GUIDE**
 
 **Where to add your generated images:**
-- **Section 1 (Abstract)**: Add `pentaigen_architecture_diagram.png`
+- **Section 1 (Abstract)**: Add `PentAIGen_Images/Figure_1.1_System_Architecture.png`
 - **Section 4 (Literature Survey)**: No image needed
-- **Section 7 (System Architecture)**: Add `pentaigen_architecture_diagram.png` and `pentaigen_modules_diagram.png`
-- **Section 10 (Implementation)**: Add `pentaigen_workflow_diagram.png`
+- **Section 7 (System Architecture)**: Add `PentAIGen_Images/Figure_1.1_System_Architecture.png` and `PentAIGen_Images/Figure_6.2_Modules_Diagram.png`
+- **Section 10 (Implementation)**: Add `PentAIGen_Images/Figure_7.1_Workflow_Diagram.png`
 - **Section 11 (Testing)**: Add screenshots of test results (create your own)
 - **Section 12 (Results)**: Add performance charts and output screenshots
-- **Section 14 (Future Scope)**: Add `pentaigen_workflow_diagram.png`
+- **Section 14 (Future Scope)**: Add `PentAIGen_Images/Figure_7.1_Workflow_Diagram.png`
 
 ---
 
@@ -20,7 +20,7 @@
 
 ### 1.1 Project Overview
 
-**![System Architecture](pentaigen_architecture_diagram.png)**
+**![System Architecture](PentAIGen_Images/Figure_1.1_System_Architecture.png)**
 *Figure 1.1: PentAIGen System Architecture Overview*
 
 PentAIGen (Multi-Agent AI-Powered Financial Intelligence Platform) is an advanced financial advisory system that leverages the power of artificial intelligence and multi-agent coordination to provide comprehensive financial insights, portfolio management, and real-time market analysis. The system integrates multiple specialized AI agents powered by Google's ADK (Agent Development Kit) framework and utilizes the MCP (Model Context Protocol) for seamless communication.
@@ -321,7 +321,7 @@ PentAIGen is a next-generation financial intelligence platform that uses multi-a
 
 ## 6. SYSTEM DESIGN & ARCHITECTURE
 
-**![System Architecture](pentaigen_architecture_diagram.png)**
+**![System Architecture](PentAIGen_Images/Figure_1.1_System_Architecture.png)**
 *Figure 6.1: PentAIGen Layered Architecture*
 
 ### 6.1 Architecture Overview
@@ -336,7 +336,7 @@ PentAIGen follows a **5-layer architecture**:
 
 ### 6.2 Module Architecture
 
-**![Modules Diagram](pentaigen_modules_diagram.png)**
+**![Modules Diagram](PentAIGen_Images/Figure_6.2_Modules_Diagram.png)**
 *Figure 6.2: PentAIGen Core Modules*
 
 #### Module 1: User Management
@@ -381,7 +381,7 @@ Response Generation → Notification Dispatch → User
 
 ## 7. DETAILED IMPLEMENTATION
 
-**![Workflow](pentaigen_workflow_diagram.png)**
+**![Workflow](PentAIGen_Images/Figure_7.1_Workflow_Diagram.png)**
 *Figure 7.1: PentAIGen Processing Workflow*
 
 ### 7.1 Technology Stack
@@ -680,7 +680,7 @@ Users reported 78% faster awareness of portfolio changes compared to traditional
 
 ### 11.1 Phase 2 Enhancements (3-6 months)
 
-**![Workflow](pentaigen_workflow_diagram.png)**
+**![Workflow](PentAIGen_Images/Figure_7.1_Workflow_Diagram.png)**
 *Figure 11.1: Future Expansion Architecture*
 
 #### Enhancement 1: Mobile Applications
@@ -882,9 +882,9 @@ adk web
 
 Use this checklist to ensure your documentation is complete:
 
-- [ ] Add `pentaigen_architecture_diagram.png` to Section 1 and 6
-- [ ] Add `pentaigen_modules_diagram.png` to Section 6
-- [ ] Add `pentaigen_workflow_diagram.png` to Section 7 and 11
+- [ ] Add `PentAIGen_Images/Figure_1.1_System_Architecture.png` to Section 1 and 6
+- [ ] Add `PentAIGen_Images/Figure_6.2_Modules_Diagram.png` to Section 6
+- [ ] Add `PentAIGen_Images/Figure_7.1_Workflow_Diagram.png` to Section 7 and 11
 - [ ] Create and add test result screenshots to Section 8
 - [ ] Create and add performance charts to Section 9
 - [ ] Add your output/dashboard screenshots to Section 9
@@ -898,3 +898,6 @@ Use this checklist to ensure your documentation is complete:
 ---
 
 **END OF DOCUMENT**
+
+
+
